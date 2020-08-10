@@ -14,4 +14,4 @@ cd apktool
 
 chmod 777 apktool.jar
 
-mv apktool.jar /usr/local/bin
+mv apktool.jar /usr/bin
