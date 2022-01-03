@@ -12,6 +12,4 @@ git clone https://github.com/canxx99/apktool
 
 cd apktool
 
-chmod 777 apktool.jar
-
-mv apktool.jar /usr/bin
+mv apktool_2.6.0.jar /usr/bin/apktool.jar
